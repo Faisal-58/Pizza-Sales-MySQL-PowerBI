@@ -1,0 +1,1 @@
+# No Python dependencies. This project contains only Power BI (.pbix) and SQL (.sql) files.
