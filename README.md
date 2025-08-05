@@ -15,6 +15,15 @@ This project analyzes a fictional pizza restaurant's sales data using **SQL** fo
 - Top-performing pizzas based on **revenue and quantity sold**
 - **Sales heatmap** by weekday and hour
 
+![PowerBI Dashboard](images/powerbi_1.png)
+
+
+
+
+![PowerBI Dashboard](images/powerbi_2.png)
+
+
+
 ## 🚀 How to Use
 
 1. Open `pizza_sales` in MySQL Workbench to explore and run queries.
@@ -30,6 +39,7 @@ This project analyzes a fictional pizza restaurant's sales data using **SQL** fo
 
 **Faisal Ijaz**  
 [GitHub](https://github.com/Faisal-58) | [LinkedIn](https://www.linkedin.com/in/faisal-ijaz-44524179/)
+
 
 
 
